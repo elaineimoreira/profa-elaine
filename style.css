@@ -31,7 +31,7 @@ body {
   top: 0;                   /* Posiciona no topo da página */
   left: 0;                  /* Alinha à esquerda */
   width: 100%;              /* Ocupa toda a largura da tela */
-  height: 80px;             /* Define a altura do cabeçalho */
+  height: 90px;             /* Define a altura do cabeçalho */
   background-color: #f3efdf;/* Cor de fundo do cabeçalho */
   display: flex;            /* Ativa layout flexbox */
   align-items: center;      /* Centraliza os itens verticalmente */
@@ -816,4 +816,5 @@ button:focus {
   padding: 4px 8px;
   cursor: pointer;
 }
+
 
