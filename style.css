@@ -116,7 +116,7 @@ body {
 .container {
   max-width: 1100px;         /* Largura máxima */
   margin: 0 auto;            /* Centraliza horizontalmente */
-  padding-top: 160px;        /* Espaço para o menu fixo */
+  padding-top: 190px;        /* Espaço para o menu fixo */
   padding-left: 20px;        /* Espaço interno esquerdo */
   padding-right: 20px;       /* Espaço interno direito */
 }
@@ -822,4 +822,5 @@ button:focus {
   padding: 4px 8px;
   cursor: pointer;
 }
+
 
