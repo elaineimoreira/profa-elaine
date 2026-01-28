@@ -122,12 +122,12 @@ body {
 }
 
 .main-container {
-  margin-top: 120px;
+  margin-top: 160px;
 }
 
 @media (max-width: 768px) {
   .main-container {
-    margin-top: 120px;
+    margin-top: 160px;
   }
 }
 
@@ -826,3 +826,4 @@ button:focus {
   padding: 4px 8px;
   cursor: pointer;
 }
+
